@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=knoxify
+name=Knoxify
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=chenxiaolong
+description=Enables various KNOX-related features in TouchWiz ROMs
 template=3
