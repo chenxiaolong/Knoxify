@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=chenxiaolong
 description=Enables various KNOX-related features in TouchWiz ROMs
-template=3
+minMagisk=1500

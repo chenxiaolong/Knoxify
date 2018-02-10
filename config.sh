@@ -2,7 +2,6 @@
 # Defines
 ##########################################################################################
 
-MODID=knoxify
 AUTOMOUNT=false
 PROPFILE=false
 POSTFSDATA=true
